@@ -15,3 +15,6 @@ del datas['python']
 print(datas)
 del data['a']
 print(data)
+
+program={'javascript':{'frontend':'react','backend':'node','backend integration':'express'},'python':['flask','django']}#dictionary inside a dictionary
+print(program['javascript']['backend'])
