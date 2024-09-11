@@ -22,3 +22,8 @@ print(num)
 
 num.extend([23,45,67,89,69])#adds these values to the list
 print(num)
+
+mini=min(num)#prints the minimum value in the list
+print(mini)
+maxi=max(num)#prints the maximum value in the list
+print(maxi)
