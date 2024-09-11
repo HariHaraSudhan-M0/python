@@ -10,3 +10,6 @@ print (num)
 
 num.insert(0,12)#add element at the 0th position and value added will be 12
 print(num)
+
+num.remove(51)#removed the element '51'
+print(num)
