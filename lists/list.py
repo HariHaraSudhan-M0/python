@@ -16,3 +16,6 @@ print(num)
 
 num.pop(2)#removes the element in the position 2
 print(num)
+
+del num[4:]#deletes all the element after the 4th index value
+print(num)
