@@ -13,3 +13,6 @@ print(num)
 
 num.remove(51)#removed the element '51'
 print(num)
+
+num.pop(2)#removes the element in the position 2
+print(num)
