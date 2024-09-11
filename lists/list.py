@@ -19,3 +19,6 @@ print(num)
 
 del num[4:]#deletes all the element after the 4th index value
 print(num)
+
+num.extend([23,45,67,89,69])#adds these values to the list
+print(num)
