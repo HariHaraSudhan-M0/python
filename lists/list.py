@@ -9,7 +9,7 @@ num.append(96)#to add a element into the list
 print (num)
 
 num.insert(0,12)#add element at the 0th position and value added will be 12
-print(num)
+print(num);lkjhgf 
 
 num.remove(51)#removed the element '51'
 print(num)
