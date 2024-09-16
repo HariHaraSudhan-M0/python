@@ -1,4 +1,4 @@
-a=input("enter the value of a:")
-b=input("enter the value of b:")
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
 c=a+b
 print("a+b = ",c)
